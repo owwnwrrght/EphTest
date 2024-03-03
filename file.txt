@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-This is the test file!!
-Hey 
-=======
 Owen just changed this file to this! 
->>>>>>> main
+
